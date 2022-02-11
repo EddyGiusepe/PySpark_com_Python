@@ -18,6 +18,7 @@ Outra grande vantagem do Spark, é que todos os componentes funcionam integrados
 
 
 
+
 Links de estudo:
 
 * [Tutorial PySpark](https://www.youtube.com/watch?v=_C8kWso4ne4)
@@ -39,6 +40,8 @@ Links de estudo:
 * [spark.apache.org](https://spark.apache.org/)
 
 * [Aula 15: Python - POO](https://www.codigofluente.com.br/aula-15-python-orientacao-a-objeto-01/)
+
+
 
 
 Thanks God!
